@@ -30,6 +30,10 @@ public class Employee {
     emp.empDob();
 	emp.empEmail();
 	emp.empAddress();
+	System.out.println("greens Tech");
+	System.out.println("java");
+	System.out.println("selenium");
+
 	}
 }
 	
